@@ -31,3 +31,4 @@ C:\Users\JF492GA\Documents\Assignment\UserManagementAPI\obj\Debug\net10.0\refint
 C:\Users\JF492GA\Documents\Assignment\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.pdb
 C:\Users\JF492GA\Documents\Assignment\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.genruntimeconfig.cache
 C:\Users\JF492GA\Documents\Assignment\UserManagementAPI\obj\Debug\net10.0\ref\UserManagementAPI.dll
+C:\Users\JF492GA\Documents\Assignment\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.sourcelink.json
